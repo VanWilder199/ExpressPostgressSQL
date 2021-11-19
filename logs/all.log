@@ -1,0 +1,68 @@
+2021-10-08 11:23:40:2340 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:24:20:2420 [32minfo[39m: [32mtime finished 511 ms[39m
+2021-10-08 11:27:33:2733 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:27:34:2734 [32minfo[39m: [32mtime finished 92 ms[39m
+2021-10-08 11:27:38:2738 [32minfo[39m: [32mtime finished 74 ms[39m
+2021-10-08 11:28:24:2824 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:28:27:2827 [32minfo[39m: [32mtime finished 84 ms[39m
+2021-10-08 11:28:52:2852 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:28:57:2857 [32minfo[39m: [32mtime finished 89 ms[39m
+2021-10-08 11:30:52:3052 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:31:03:313 [32minfo[39m: [32mtime finished 511 ms[39m
+2021-10-08 11:33:29:3329 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:33:35:3335 [32minfo[39m: [32mPath: /users, Method: GET,  [39m
+[32m    Body: {}, Query: {},[39m
+2021-10-08 11:33:35:3335 [32minfo[39m: [32mtime finished 87 ms[39m
+2021-10-08 11:33:53:3353 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:34:21:3421 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:34:25:3425 [35mhttp[39m: [35mPath: /users, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 11:34:25:3425 [32minfo[39m: [32mtime finished 100 ms[39m
+2021-10-08 11:34:52:3452 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:34:53:3453 [35mhttp[39m: [35mPath: /users, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 11:34:53:3453 [32minfo[39m: [32mtime finished 91 ms[39m
+2021-10-08 11:35:30:3530 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:37:38:3738 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:37:41:3741 [35mhttp[39m: [35mDate: 1633682261240,Path: /users, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 11:37:41:3741 [32minfo[39m: [32mtime finished 86 ms[39m
+2021-10-08 11:38:01:381 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:38:04:384 [35mhttp[39m: [35mDate: Fri Oct 08 2021 11:38:04 GMT+0300 (Москва, стандартное время),Path: /users, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 11:38:04:384 [32minfo[39m: [32mtime finished 82 ms[39m
+2021-10-08 11:39:08:398 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:46:40:4640 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:46:51:4651 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:48:12:4812 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:48:16:4816 [35mhttp[39m: [35mPath: /users, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 11:48:16:4816 [32minfo[39m: [32mtime finished 82 ms[39m
+2021-10-08 11:50:55:5055 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:53:09:539 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:53:12:5312 [35mhttp[39m: [35mPath: /users, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 11:53:12:5312 [32minfo[39m: [32mtime finished 85 ms[39m
+2021-10-08 11:55:16:5516 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:55:51:5551 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:56:45:5645 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 11:56:50:5650 [35mhttp[39m: [35mPath: /users, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 11:56:50:5650 [32minfo[39m: [32mtime finished 87 ms[39m
+2021-10-08 11:56:52:5652 [35mhttp[39m: [35mPath: /user, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 11:57:45:5745 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:00:45:045 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:03:06:36 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:04:03:43 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:05:02:52 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:05:55:555 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:06:05:65 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:07:27:727 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:07:53:753 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:11:32:1132 [37mdebug[39m: [37mRunning on port 3000[39m
+2021-10-08 12:11:36:1136 [35mhttp[39m: [35mPath: /users, Method: GET,  [39m
+[35m    Body: {}, Query: {},[39m
+2021-10-08 12:11:36:1136 [31merror[39m: [31merror in controller[39m
+2021-10-08 12:11:36:1136 [31merror[39m: [31mThere is unhandled promise rejection inside application 4fsdfsdf[39m
+2021-10-08 12:11:55:1155 [37mdebug[39m: [37mRunning on port 3000[39m
